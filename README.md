@@ -1,7 +1,7 @@
 
 ## Screenshots
 
-![App Screenshot](./images/login_ss.jpg)
+![App Screenshot](./images/login-ss.jpg)
 
 ![App Screenshot](./images/change-password_ss.jpg)
 
