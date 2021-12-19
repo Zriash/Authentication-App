@@ -1,10 +1,4 @@
 
-## Screenshots
-
-![App Screenshot](./images/login-ss.jpg)
-
-![App Screenshot](./images/change-password_ss.jpg)
-
 # Authentication-App
 
 Authentication demo that signup/login users or changing password for login user.
@@ -14,6 +8,13 @@ using google Firebase to authenticate existing users and storing new users.
 using browser local storage to remember logged in users. 
 
 navbar is responsive and will change upon login/logout.
+
+## Screenshots
+
+![App Screenshot](./images/login-ss.jpg)
+
+![App Screenshot](./images/change-password_ss.jpg)
+
 ## Installation
 
 Install Authentication-App with npm
